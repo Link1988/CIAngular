@@ -1,8 +1,8 @@
 var expect = require("chai").expect;
 var mongoose = require("mongoose");
-var jobModel = require('../../models/job');
+var jobModel = require('../models/job');
 var Promise = require('bluebird');
-var jobsData = require('../../jobs-data.js');
+var jobsData = require('../jobs-data.js');
 
 
 function resetJobs(){
