@@ -1,1 +1,1 @@
-app = angular.module('app', ['ngResource']);
+app = angular.module('app',['ngResource']);
